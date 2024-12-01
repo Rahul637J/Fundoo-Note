@@ -92,7 +92,7 @@ DATABASES = {
         "NAME": 'django_db',#os.environ.get('DATABASE_NAME'),
         "USER": "rj_database_user",#os.environ.get('DATABASE_USER'),
         "PASSWORD": "RaHuL637@j",#os.environ.get('DATABASE_PASSWORD'),
-        "HOST" : "172.31.85.29",
+        "HOST" : "172.31.31.129",
         "PORT" : "5432",
     }
 }
